@@ -9,3 +9,7 @@ Our objective is to maximize the arrival ratio of packets while simultaneously m
 
 For this research details we refer the reader to read our paper.
 
+#Citation
+
+If you find either the code or the paper useful for your research, cite our paper:
+
